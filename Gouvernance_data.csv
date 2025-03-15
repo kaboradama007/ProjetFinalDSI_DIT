@@ -1,0 +1,9 @@
+Annee;Disponibilite;Population;Superficie;Effectif Médecins;Effectif Infirmiers;Effectif de Sage femme;Centre de sante publique;Rayon d’action moyen théorique en km;Ratio population/médecin ;Ratio habitants/infirmier;Ratio population/SFE-ME;médecin necessaire;infirmier necessaire;SFE-ME necessaire;FS necessaire
+2019;Disponible;20870060;272960;1910;8613;4320;2190;6,3;10927;2423;4831;4174;10435;6957;3477
+2021;Disponible;21500559;272960;2226;9265;4847;2304;6,1;9659;2321;4436;4300;10750;7167;3477
+2022;Disponible;22184452;272960;2319;9310;5086;2361;6,1;9271;2309;4227;4437;11092;7395;3477
+2023;Disponible;22882385;272960;2318;8917;4970;2402;6,0;9872;2566;4604;4576;11441;7627;3477
+2019;Gap;;;2264;1822;2637;1287;;;;;;;;
+2021;Gap;;;2074;1485;2320;1173;;;;;;;;
+2022;Gap;;;2118;1782;2309;1116;;;;;;;;
+2023;Gap;;;2258;2524;2657;1075;;;;;;;;
