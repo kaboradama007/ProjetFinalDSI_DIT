@@ -91,7 +91,7 @@ rf.fit(x_train, y_train)
 from sklearn.metrics import r2_score, mean_squared_error
 # Calculer le R2 score et Mean Squarred Error
 y_pred=rf.predict(x_val)
-st.write(f"Le r2 score sur les données d'entrainement est de: : {round(r2_score(y_pred, y_val),2)}")
+st.write(f"Le r2 score sur les données de validation est de: : {round(r2_score(y_pred, y_val),2)}")
 st.write(f"Le mean squard erreur est : {round(mean_squared_error(y_pred, y_val),2)}")
 
 # Calculer le R2 score sur les données d'entrainement
